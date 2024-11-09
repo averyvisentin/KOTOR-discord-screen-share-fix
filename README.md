@@ -1,4 +1,4 @@
-# KOTOR Discord Screen Share Fix
+# KOTOR 1 & 2 Discord Screen Share Fix
 
 A quick fix I found a year or so ago to resolve screen sharing issues with KOTOR on Discord.
 
